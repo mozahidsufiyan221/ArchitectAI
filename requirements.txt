@@ -1,0 +1,11 @@
+agent-framework
+mcp
+openai
+python-dotenv
+requests
+pydantic>=2
+numpy
+faiss-cpu
+sentence-transformers
+pypdf
+python-docx

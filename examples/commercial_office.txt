@@ -1,0 +1,22 @@
+PRELIMINARY AEC PROJECT BRIEF
+
+Project:
+Five-storey commercial office building in Saudi Arabia.
+
+Requirements:
+- Approximately 2,500 m2 per floor.
+- General office occupancy.
+- Parking and site access.
+- HVAC system.
+- Electrical distribution.
+- Accessible entrances.
+- Fire/life-safety coordination.
+- Preliminary BIM/Revit coordination.
+
+The AI system shall:
+1. identify missing information;
+2. create a preliminary multidisciplinary concept;
+3. identify discipline coordination risks;
+4. retrieve relevant SBC evidence from the local RAG corpus;
+5. produce a QA report;
+6. wait for human professional approval before Revit execution.

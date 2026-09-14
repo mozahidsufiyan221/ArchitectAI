@@ -1,0 +1,14 @@
+PUT THE OFFICIAL/CURRENT SBC DOCUMENTS THAT YOU ARE AUTHORIZED TO USE IN THIS FOLDER.
+
+Supported:
+- PDF
+- TXT
+- MD
+- DOCX
+
+Example:
+data\sbc\SBC_Architectural.pdf
+data\sbc\SBC_Structural.pdf
+data\sbc\SBC_Mechanical.pdf
+
+The system must never interpret an empty SBC index as compliance.
